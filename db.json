@@ -1,342 +1,440 @@
 {
    "users":[
-       {
-        "firstName": "Aaron",
-        "surName": "Nedziwe",
-        "email": "Aaron.Nedziwe@za.sabmiller.com",
-        "nTLogin": "BEERS/AARONN01BIS",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Adriaan",
-        "surName": "Badenhorst",
-        "email": "Adriaan.badenhorst@za.sabmiller.com",
-        "nTLogin": "BEERSA/Adriaab1cen",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Agrippa",
-        "surName": "Mhlongo",
-        "email": "agrippa.mhlongo@za.sabmiller.com",
-        "nTLogin": "BEERSA/Amhlongo",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Ajay",
-        "surName": "Bachulal",
-        "email": "Ajay.bachulal@za.sabmiller.com",
-        "nTLogin": "BEERSA/ajayb01pro",
-        "role": "Normal",
-        "active": true
-    },
-    {
-        "firstName": "Alisha",
-        "surName": "O^Connor",
-        "email": "Alisha.OConnor@za.sabmiller.com",
-        "nTLogin": "BEERSA/aoconnor",
-        "role": "Normal",
-        "active": true
-    },
-    {
-        "firstName": "Amit",
-        "surName": "Ooka",
-        "email": "Amit.Ooka@za.sabmiller.com",
-        "nTLogin": "BEERSA/AOoka",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Andile",
-        "surName": "Mthiya",
-        "email": "andile.mthiya@za.sabmiller.com",
-        "nTLogin": "BEERSA/andile01px1",
-        "role": "Normal",
-        "active": true
-    },
-    {
-        "firstName": "Andiswa",
-        "surName": "Cele",
-        "email": "andiswa.cele@za.sabmiller.com",
-        "nTLogin": "BEERSA/andiswac01pro",
-        "role": "Normal",
-        "active": true
-    },
-    {
-        "firstName": "Andre",
-        "surName": "Bretenbach",
-        "email": "andre.bretenbach@za.sabmiller.com",
-        "nTLogin": "BEERSA/andreb01val",
-        "role": "Normal",
-        "active": true
-    },
-    {
-        "firstName": "Andrew",
-        "surName": "Boshoff",
-        "email": "andrew.boshoff@za.sabmiller.com",
-        "nTLogin": "BEERSA/andrewb01ecp",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Anell",
-        "surName": "Earle",
-        "email": "anell.earle@za.sabmiller.com",
-        "nTLogin": "BEERSA/anelle01dvl",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Anesh",
-        "surName": "Chanerika",
-        "email": "anesh.chanerika@za.sabmiller.com",
-        "nTLogin": "BEERSA/anesha01pro",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Angela",
-        "surName": "Schoeman",
-        "email": "angela.schoeman@za.sabmiller.com",
-        "nTLogin": "BEERSA/angelas01val",
-        "role": "Normal",
-        "active": true
-    },
-    {
-        "firstName": "Angus",
-        "surName": "van Wyk",
-        "email": "angus.vanwyk@za.sabmiller.com",
-        "nTLogin": "BEERSA/angusv01alb",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "anil",
-        "surName": "mahadeo",
-        "email": "anil.mahadeo@za.sabmiller.com",
-        "nTLogin": "BEERSA/anilm01px1",
-        "role": "Administrator",
-        "active": true
-    },
-    {
-        "firstName": "Anton",
-        "surName": "van der Watt",
-        "email": "anton.vanderwatt@za.sabmiller.com",
-        "nTLogin": "BEERSA/avanderwatt",
-        "role": "Administrator",
-        "active": true
-    }
+      {
+         "firstName":"Aaron",
+         "surName":"Nedziwe",
+         "email":"Aaron.Nedziwe@za.sabmiller.com",
+         "nTLogin":"BEERS/AARONN01BIS",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Adriaan",
+         "surName":"Badenhorst",
+         "email":"Adriaan.badenhorst@za.sabmiller.com",
+         "nTLogin":"BEERSA/Adriaab1cen",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Agrippa",
+         "surName":"Mhlongo",
+         "email":"agrippa.mhlongo@za.sabmiller.com",
+         "nTLogin":"BEERSA/Amhlongo",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Ajay",
+         "surName":"Bachulal",
+         "email":"Ajay.bachulal@za.sabmiller.com",
+         "nTLogin":"BEERSA/ajayb01pro",
+         "role":"Normal",
+         "active":true
+      },
+      {
+         "firstName":"Alisha",
+         "surName":"O^Connor",
+         "email":"Alisha.OConnor@za.sabmiller.com",
+         "nTLogin":"BEERSA/aoconnor",
+         "role":"Normal",
+         "active":true
+      },
+      {
+         "firstName":"Amit",
+         "surName":"Ooka",
+         "email":"Amit.Ooka@za.sabmiller.com",
+         "nTLogin":"BEERSA/AOoka",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Andile",
+         "surName":"Mthiya",
+         "email":"andile.mthiya@za.sabmiller.com",
+         "nTLogin":"BEERSA/andile01px1",
+         "role":"Normal",
+         "active":true
+      },
+      {
+         "firstName":"Andiswa",
+         "surName":"Cele",
+         "email":"andiswa.cele@za.sabmiller.com",
+         "nTLogin":"BEERSA/andiswac01pro",
+         "role":"Normal",
+         "active":true
+      },
+      {
+         "firstName":"Andre",
+         "surName":"Bretenbach",
+         "email":"andre.bretenbach@za.sabmiller.com",
+         "nTLogin":"BEERSA/andreb01val",
+         "role":"Normal",
+         "active":true
+      },
+      {
+         "firstName":"Andrew",
+         "surName":"Boshoff",
+         "email":"andrew.boshoff@za.sabmiller.com",
+         "nTLogin":"BEERSA/andrewb01ecp",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Anell",
+         "surName":"Earle",
+         "email":"anell.earle@za.sabmiller.com",
+         "nTLogin":"BEERSA/anelle01dvl",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Anesh",
+         "surName":"Chanerika",
+         "email":"anesh.chanerika@za.sabmiller.com",
+         "nTLogin":"BEERSA/anesha01pro",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Angela",
+         "surName":"Schoeman",
+         "email":"angela.schoeman@za.sabmiller.com",
+         "nTLogin":"BEERSA/angelas01val",
+         "role":"Normal",
+         "active":true
+      },
+      {
+         "firstName":"Angus",
+         "surName":"van Wyk",
+         "email":"angus.vanwyk@za.sabmiller.com",
+         "nTLogin":"BEERSA/angusv01alb",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"anil",
+         "surName":"mahadeo",
+         "email":"anil.mahadeo@za.sabmiller.com",
+         "nTLogin":"BEERSA/anilm01px1",
+         "role":"Administrator",
+         "active":true
+      },
+      {
+         "firstName":"Anton",
+         "surName":"van der Watt",
+         "email":"anton.vanderwatt@za.sabmiller.com",
+         "nTLogin":"BEERSA/avanderwatt",
+         "role":"Administrator",
+         "active":true
+      }
    ],
    "suppliers":[
-       {
-        "name": "Jongithemba Marwarwa",
-        "contactPerson": "Jongithemba Marwarwa",
-        "contactEmail": "Jongithemba.Marwarwa@za.sabmiller.com",
-        "active": true
-    },
-    {
-        "name": "56G Maintenance",
-        "contactPerson": "Lebogang Kekana",
-        "contactEmail": "lebogangkekana@za.ab-inbev.com",
-        "active": true
-    },
-    {
-        "name": "65PL Maintenance",
-        "contactPerson": "Lebogang Kekana",
-        "contactEmail": "lebogangkekana@za.ab-inbev.com",
-        "active": true
-    },
-    {
-        "name": "A1 Handyman",
-        "contactPerson": "A1 Handyman",
-        "contactEmail": "a1handyman@vodamail.co.za",
-        "active": true
-    },
-    {
-        "name": "ABI Central Region Risk Department",
-        "contactPerson": "ABI Central Region Risk Department",
-        "contactEmail": "Tracy.Perumal@za.sabmiller.com",
-        "active": true
-    },
-    {
-        "name": "ABI Midrand Site Maintenance",
-        "contactPerson": "ABI Engineering",
-        "contactEmail": "Lonwabo.Diamini@za.sabmiller.com",
-        "active": true
-    },
-    {
-        "name": "ABI Vaal",
-        "contactPerson": "Tiadi Mokoena",
-        "contactEmail": "Tiadi.mokoena@za.sabmiller.com",
-        "active": true
-    },
-    {
-        "name": "Acotherm",
-        "contactPerson": "Michael",
-        "contactEmail": "sales@acotherm.co.za",
-        "active": true
-    },
-    {
-        "name": "Actom/John Thomson",
-        "contactPerson": "Chatmaine",
-        "contactEmail": "CharmaineN@johnthompson.co.za",
-        "active": true
-    },
-    {
-        "name": "AD Construction",
-        "contactPerson": "Dave",
-        "contactEmail": "adconstruction@surfafrica.net",
-        "active": true
-    },
-    {
-        "name": "AJM Parts",
-        "contactPerson": "Basil",
-        "contactEmail": "nelson|@ajmparts.com",
-        "active": true
-    },
-    {
-        "name": "Alcosafe",
-        "contactPerson": "Liz",
-        "contactEmail": "alcosafe@icon.co.za",
-        "active": true
-    },
-    {
-        "name": "Allkill",
-        "contactPerson": "Robbie Sturgen",
-        "contactEmail": "allkill@vodamail.co.za",
-        "active": true
-    }
+      {
+         "name":"Jongithemba Marwarwa",
+         "contactPerson":"Jongithemba Marwarwa",
+         "contactEmail":"Jongithemba.Marwarwa@za.sabmiller.com",
+         "active":true
+      },
+      {
+         "name":"56G Maintenance",
+         "contactPerson":"Lebogang Kekana",
+         "contactEmail":"lebogangkekana@za.ab-inbev.com",
+         "active":true
+      },
+      {
+         "name":"65PL Maintenance",
+         "contactPerson":"Lebogang Kekana",
+         "contactEmail":"lebogangkekana@za.ab-inbev.com",
+         "active":true
+      },
+      {
+         "name":"A1 Handyman",
+         "contactPerson":"A1 Handyman",
+         "contactEmail":"a1handyman@vodamail.co.za",
+         "active":true
+      },
+      {
+         "name":"ABI Central Region Risk Department",
+         "contactPerson":"ABI Central Region Risk Department",
+         "contactEmail":"Tracy.Perumal@za.sabmiller.com",
+         "active":true
+      },
+      {
+         "name":"ABI Midrand Site Maintenance",
+         "contactPerson":"ABI Engineering",
+         "contactEmail":"Lonwabo.Diamini@za.sabmiller.com",
+         "active":true
+      },
+      {
+         "name":"ABI Vaal",
+         "contactPerson":"Tiadi Mokoena",
+         "contactEmail":"Tiadi.mokoena@za.sabmiller.com",
+         "active":true
+      },
+      {
+         "name":"Acotherm",
+         "contactPerson":"Michael",
+         "contactEmail":"sales@acotherm.co.za",
+         "active":true
+      },
+      {
+         "name":"Actom/John Thomson",
+         "contactPerson":"Chatmaine",
+         "contactEmail":"CharmaineN@johnthompson.co.za",
+         "active":true
+      },
+      {
+         "name":"AD Construction",
+         "contactPerson":"Dave",
+         "contactEmail":"adconstruction@surfafrica.net",
+         "active":true
+      },
+      {
+         "name":"AJM Parts",
+         "contactPerson":"Basil",
+         "contactEmail":"nelson|@ajmparts.com",
+         "active":true
+      },
+      {
+         "name":"Alcosafe",
+         "contactPerson":"Liz",
+         "contactEmail":"alcosafe@icon.co.za",
+         "active":true
+      },
+      {
+         "name":"Allkill",
+         "contactPerson":"Robbie Sturgen",
+         "contactEmail":"allkill@vodamail.co.za",
+         "active":true
+      }
+   ],
+   "organogram":[
+      {
+         "region":"ABI Central Office",
+         "regionIsActive":false,
+         "site":"COF ABI:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":false,
+         "site":"Bedford S&D:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":false,
+         "site":"Benrose S&D:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":false,
+         "site":"Dev S&D SS Old:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":false,
+         "site":"Devland S&D Old:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":false,
+         "site":"Midrand S&D:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":false,
+         "site":"S Gauteng R O:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI Devland Manufacturing",
+         "regionIsActive":false,
+         "site":"Dev Manut:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"KZN Region:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Ladysmith:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Newcastle:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Phoenic:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Pierermaritz:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Premier:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Richards Bay:ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":false,
+         "site":"Vryheid :ABI",
+         "siteIsActive":false,
+         "department":"",
+         "departmentIsActive":false
+      }
    ],
    "sites":[
-     {
-      "region":"ABI Central Office",
-      "regionIsActive":false,
-      "site":"COF ABI:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Central Region",
-      "regionIsActive":false,
-      "site":"Bedford S&D:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Central Region",
-      "regionIsActive":false,
-      "site":"Benrose S&D:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Central Region",
-      "regionIsActive":false,
-      "site":"Dev S&D SS Old:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Central Region",
-      "regionIsActive":false,
-      "site":"Devland S&D Old:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Central Region",
-      "regionIsActive":false,
-      "site":"Midrand S&D:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Central Region",
-      "regionIsActive":false,
-      "site":"S Gauteng R O:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI Devland Manufacturing",
-      "regionIsActive":false,
-      "site":"Dev Manut:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"KZN Region:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Ladysmith:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Newcastle:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Phoenic:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Pierermaritz:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Premier:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Richards Bay:ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   },
-   {
-      "region":"ABI KZN Region",
-      "regionIsActive":false,
-      "site":"Vryheid :ABI",
-      "siteIsActive":false,
-      "department":"",
-      "departmentIsActive":false
-   }
-]
+      {
+         "region":"ABI Central Office",
+         "regionIsActive":true,
+         "site":"COF ABI:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Bedford S&D:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Benrose S&D:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Dev S&D SS Old:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Devland S&D Old:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"Midrand S&D:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Central Region",
+         "regionIsActive":true,
+         "site":"S Gauteng R O:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI Devland Manufacturing",
+         "regionIsActive":true,
+         "site":"Dev Manut:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"KZN Region:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Ladysmith:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Newcastle:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Phoenic:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Pierermaritz:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Premier:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Richards Bay:ABI",
+         "siteIsActive":false
+      },
+      {
+         "region":"ABI KZN Region",
+         "regionIsActive":true,
+         "site":"Vryheid :ABI",
+         "siteIsActive":false
+      }
+   ]
 }
