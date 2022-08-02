@@ -1,0 +1,212 @@
+{
+   "users":[
+      {
+         "First Name":"Aaron",
+         "Surname":"Nedziwe",
+         "Email":"Aaron.Nedziwe@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERS/AARONN01BIS",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Adriaan",
+         "Surname":"Badenhorst",
+         "Email":"Adriaan.badenhorst@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/Adriaab1cen",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Agrippa",
+         "Surname":"Mhlongo",
+         "Email":"agrippa.mhlongo@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/Amhlongo",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Ajay",
+         "Surname":"Bachulal",
+         "Email":"Ajay.bachulal@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/ajayb01pro",
+         "Role":"Normal",
+         "Active":"true"
+      },
+      {
+         "First Name":"Alisha",
+         "Surname":"O^Connor",
+         "Email":"Alisha.OConnor@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/aoconnor",
+         "Role":"Normal",
+         "Active":"true"
+      },
+      {
+         "First Name":"Amit",
+         "Surname":"Ooka",
+         "Email":"Amit.Ooka@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/AOoka",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Andile",
+         "Surname":"Mthiya",
+         "Email":"andile.mthiya@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/andile01px1",
+         "Role":"Normal",
+         "Active":"true"
+      },
+      {
+         "First Name":"Andiswa",
+         "Surname":"Cele",
+         "Email":"andiswa.cele@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/andiswac01pro",
+         "Role":"Normal",
+         "Active":"true"
+      },
+      {
+         "First Name":"Andre",
+         "Surname":"Bretenbach",
+         "Email":"andre.bretenbach@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/andreb01val",
+         "Role":"Normal",
+         "Active":"true"
+      },
+      {
+         "First Name":"Andrew",
+         "Surname":"Boshoff",
+         "Email":"andrew.boshoff@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/andrewb01ecp",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Anell",
+         "Surname":"Earle",
+         "Email":"anell.earle@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/anelle01dvl",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Anesh",
+         "Surname":"Chanerika",
+         "Email":"anesh.chanerika@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/anesha01pro",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Angela",
+         "Surname":"Schoeman",
+         "Email":"angela.schoeman@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/angelas01val",
+         "Role":"Normal",
+         "Active":"true"
+      },
+      {
+         "First Name":"Angus",
+         "Surname":"van Wyk",
+         "Email":"angus.vanwyk@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/angusv01alb",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"anil",
+         "Surname":"mahadeo",
+         "Email":"anil.mahadeo@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/anilm01px1",
+         "Role":"Administrator",
+         "Active":"true"
+      },
+      {
+         "First Name":"Anton",
+         "Surname":"van der Watt",
+         "Email":"anton.vanderwatt@za.sabmiller.com",
+         "NTLogin[Domain]/[NTLogin]":"BEERSA/avanderwatt",
+         "Role":"Administrator",
+         "Active":"true"
+      }
+   ],
+   "suppliers":[
+      {
+         "Name":"Jongithemba Marwarwa",
+         "Contact Person":"Jongithemba Marwarwa",
+         "ContactEmail":"Jongithemba.Marwarwa@za.sabmiller.com",
+         "Active":"true"
+      },
+      {
+         "Name":"56G Maintenance",
+         "Contact Person":"Lebogang Kekana",
+         "ContactEmail":"lebogangkekana@za.ab-inbev.com",
+         "Active":"true"
+      },
+      {
+         "Name":"65PL Maintenance",
+         "Contact Person":"Lebogang Kekana",
+         "ContactEmail":"lebogangkekana@za.ab-inbev.com",
+         "Active":"true"
+      },
+      {
+         "Name":"A1 Handyman",
+         "Contact Person":"A1 Handyman",
+         "ContactEmail":"a1handyman@vodamail.co.za",
+         "Active":"true"
+      },
+      {
+         "Name":"ABI Central Region Risk Department",
+         "Contact Person":"ABI Central Region Risk Department",
+         "ContactEmail":"Tracy.Perumal@za.sabmiller.com",
+         "Active":"true"
+      },
+      {
+         "Name":"ABI Midrand Site Maintenance",
+         "Contact Person":"ABI Engineering",
+         "ContactEmail":"Lonwabo.Diamini@za.sabmiller.com",
+         "Active":"true"
+      },
+      {
+         "Name":"ABI Vaal",
+         "Contact Person":"Tiadi Mokoena",
+         "ContactEmail":"Tiadi.mokoena@za.sabmiller.com",
+         "Active":"true"
+      },
+      {
+         "Name":"Acotherm",
+         "Contact Person":"Michael",
+         "ContactEmail":"sales@acotherm.co.za",
+         "Active":"true"
+      },
+      {
+         "Name":"Actom/John Thomson",
+         "Contact Person":"Chatmaine",
+         "ContactEmail":"CharmaineN@johnthompson.co.za",
+         "Active":"true"
+      },
+      {
+         "Name":"AD Construction",
+         "Contact Person":"Dave",
+         "ContactEmail":"adconstruction@surfafrica.net",
+         "Active":"true"
+      },
+      {
+         "Name":"AJM Parts",
+         "Contact Person":"Basil",
+         "ContactEmail":"nelson|@ajmparts.com",
+         "Active":"true"
+      },
+      {
+         "Name":"Alcosafe",
+         "Contact Person":"Liz",
+         "ContactEmail":"alcosafe@icon.co.za",
+         "Active":"true"
+      },
+      {
+         "Name":"Allkill",
+         "Contact Person":"Robbie Sturgen",
+         "ContactEmail":"allkill@vodamail.co.za",
+         "Active":"true"
+      }
+   ]
+}
