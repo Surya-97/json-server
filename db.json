@@ -131,82 +131,82 @@
    ],
    "suppliers":[
       {
-         "Name":"Jongithemba Marwarwa",
-         "Contact Person":"Jongithemba Marwarwa",
-         "ContactEmail":"Jongithemba.Marwarwa@za.sabmiller.com",
-         "Active":"true"
-      },
-      {
-         "Name":"56G Maintenance",
-         "Contact Person":"Lebogang Kekana",
-         "ContactEmail":"lebogangkekana@za.ab-inbev.com",
-         "Active":"true"
-      },
-      {
-         "Name":"65PL Maintenance",
-         "Contact Person":"Lebogang Kekana",
-         "ContactEmail":"lebogangkekana@za.ab-inbev.com",
-         "Active":"true"
-      },
-      {
-         "Name":"A1 Handyman",
-         "Contact Person":"A1 Handyman",
-         "ContactEmail":"a1handyman@vodamail.co.za",
-         "Active":"true"
-      },
-      {
-         "Name":"ABI Central Region Risk Department",
-         "Contact Person":"ABI Central Region Risk Department",
-         "ContactEmail":"Tracy.Perumal@za.sabmiller.com",
-         "Active":"true"
-      },
-      {
-         "Name":"ABI Midrand Site Maintenance",
-         "Contact Person":"ABI Engineering",
-         "ContactEmail":"Lonwabo.Diamini@za.sabmiller.com",
-         "Active":"true"
-      },
-      {
-         "Name":"ABI Vaal",
-         "Contact Person":"Tiadi Mokoena",
-         "ContactEmail":"Tiadi.mokoena@za.sabmiller.com",
-         "Active":"true"
-      },
-      {
-         "Name":"Acotherm",
-         "Contact Person":"Michael",
-         "ContactEmail":"sales@acotherm.co.za",
-         "Active":"true"
-      },
-      {
-         "Name":"Actom/John Thomson",
-         "Contact Person":"Chatmaine",
-         "ContactEmail":"CharmaineN@johnthompson.co.za",
-         "Active":"true"
-      },
-      {
-         "Name":"AD Construction",
-         "Contact Person":"Dave",
-         "ContactEmail":"adconstruction@surfafrica.net",
-         "Active":"true"
-      },
-      {
-         "Name":"AJM Parts",
-         "Contact Person":"Basil",
-         "ContactEmail":"nelson|@ajmparts.com",
-         "Active":"true"
-      },
-      {
-         "Name":"Alcosafe",
-         "Contact Person":"Liz",
-         "ContactEmail":"alcosafe@icon.co.za",
-         "Active":"true"
-      },
-      {
-         "Name":"Allkill",
-         "Contact Person":"Robbie Sturgen",
-         "ContactEmail":"allkill@vodamail.co.za",
-         "Active":"true"
-      }
+        "name": "Jongithemba Marwarwa",
+        "contactPerson": "Jongithemba Marwarwa",
+        "contactEmail": "Jongithemba.Marwarwa@za.sabmiller.com",
+        "active": "true"
+},
+{
+    "name": "56G Maintenance",
+    "contactPerson": "Lebogang Kekana",
+    "contactEmail": "lebogangkekana@za.ab-inbev.com",
+    "active": "true"
+},
+{
+    "name": "65PL Maintenance",
+    "contactPerson": "Lebogang Kekana",
+    "contactEmail": "lebogangkekana@za.ab-inbev.com",
+    "active": "true"
+},
+{
+    "name": "A1 Handyman",
+    "contactPerson": "A1 Handyman",
+    "contactEmail": "a1handyman@vodamail.co.za",
+    "active": "true"
+},
+{
+    "name": "ABI Central Region Risk Department",
+    "contactPerson": "ABI Central Region Risk Department",
+    "contactEmail": "Tracy.Perumal@za.sabmiller.com",
+    "active": "true"
+},
+{
+    "name": "ABI Midrand Site Maintenance",
+    "contactPerson": "ABI Engineering",
+    "contactEmail": "Lonwabo.Diamini@za.sabmiller.com",
+    "active": "true"
+},
+{
+    "name": "ABI Vaal",
+    "contactPerson": "Tiadi Mokoena",
+    "contactEmail": "Tiadi.mokoena@za.sabmiller.com",
+    "active": "true"
+},
+{
+    "name": "Acotherm",
+    "contactPerson": "Michael",
+    "contactEmail": "sales@acotherm.co.za",
+    "active": "true"
+},
+{
+    "name": "Actom/John Thomson",
+    "contactPerson": "Chatmaine",
+    "contactEmail": "CharmaineN@johnthompson.co.za",
+    "active": "true"
+},
+{
+    "name": "AD Construction",
+    "contactPerson": "Dave",
+    "contactEmail": "adconstruction@surfafrica.net",
+    "active": "true"
+},
+{
+        "name": "AJM Parts",
+        "contactPerson": "Basil",
+        "contactEmail": "nelson|@ajmparts.com",
+        "active": "true"
+},
+{
+    "name": "Alcosafe",
+    "contactPerson": "Liz",
+    "contactEmail": "alcosafe@icon.co.za",
+    "active": "true"
+},
+{
+    "name": "Allkill",
+    "contactPerson": "Robbie Sturgen",
+    "contactEmail": "allkill@vodamail.co.za",
+    "active": "true"
+}
    ]
 }
